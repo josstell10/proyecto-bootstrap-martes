@@ -9,3 +9,17 @@
 .carousel-item img{
     height: 800px;
 }
+.img-hamburguesa{
+    width: 100%;
+    height: 500px;
+}
+.fondo-promo{
+    padding: 5px 31px;
+    background-image: url("../imagenes/fondo-amarillo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img-promos{
+    width: 100%;
+    height: 350px;
+}
